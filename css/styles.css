@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-size: 24px;
+  font-family: fantasy;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  line-height: 24px;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+ul {
+  line-height: 40px;
+}
+body{
+  background-color: yellow;
+}
